@@ -12,6 +12,7 @@ See the questions section.
 - packet-parser: used to parse .docx and .pdf packets into JSON, so it can be uploaded to MongoDB database
 - database: program for managing the qbreader database, including uploading questions
 - logs: manages and summarizes logs
+- python-module: a python wrapper module used to access the qbreader API
 
 ## Questions
 
