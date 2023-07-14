@@ -21,4 +21,4 @@ As stated on the website,
 
 > Everything posted here is copyright the writers and tournament hosts. Not the archives. It is illegal to make money from the use or sale of these questions without the explicit permission of the owners.
 
-qbreader does not make money and has no plan to do so in the future.
+qbreader does not make money from the database and has no plan to do so in the future. (Note: geoword questions are written by our writers and are not sourced from the archive.)
