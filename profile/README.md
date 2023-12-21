@@ -13,6 +13,7 @@ See the questions section.
 - database: program for managing the qbreader database, including uploading questions
 - logs: manages and summarizes logs
 - python-module: a python wrapper module used to access the qbreader API
+- qb-answer-checker: a program that checks given answers against quizbowl answerlines, which is also published as an npm package
 
 ## Questions
 
